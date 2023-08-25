@@ -10,7 +10,6 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@esbuild/win32-x64": "^0.19.2",
     "astro": "^2.7.2"
   }
 }
