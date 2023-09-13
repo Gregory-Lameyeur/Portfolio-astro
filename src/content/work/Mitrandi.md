@@ -1,5 +1,5 @@
 ---
-title: Mitrandi
+title: Mitrandi (Pro)
 publishDate: 2020-03-02 00:00:00
 img: /assets/Mitrandi.jpg
 img_alt: ..
