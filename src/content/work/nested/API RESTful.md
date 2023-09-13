@@ -1,6 +1,6 @@
 ---
 title: API RESTful
-publishDate: 2020-03-04 00:00:00
+publishDate: 2023-08-04 00:00:00
 img: /assets/APIRESTful.jpg
 img_alt: ..
 description: ..
