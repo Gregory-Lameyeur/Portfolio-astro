@@ -12,4 +12,4 @@ tags:
 
 [Lien vers le repo](https://github.com/Gregory-Lameyeur/Api-REST-User-Product-NodeJS.git)
 
-Il s'agit d'une API RESTful construite à l'aide de Node.js, Express.js et TypeScript, conçue pour offrir des opérations CRUD (Create, Read, Update, Delete) pour les modèles utilisateur et produit. L'API utilise MongoDB comme base de données pour stocker et récupérer des données, et elle intègre également une authentification et une autorisation d'utilisateurs via JWT (JSON Web Tokens) pour des processus de connexion et d'inscription sécurisés.
+This is a RESTful API built using Node.js, Express.js, and TypeScript, designed to provide CRUD (Create, Read, Update, Delete) operations for user and product models. The API uses MongoDB as its database to store and retrieve data, and it also integrates user authentication and authorization through JWT (JSON Web Tokens) for secure login and registration processes.
